@@ -8,7 +8,7 @@ Usage:
 
 For this you would need a heroku app. You can create it using `heroku create --stack cedar <app name>`
 
-    git clone http://github.com/ptek/herokyll <project name>
+    git clone git://github.com/ptek/herokyll.git <project name>
     cd <project name>
     git remote add heroku git@heroku.com:<app name>.git
     
