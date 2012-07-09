@@ -1,0 +1,6 @@
+app
+cabal-dev
+dist
+*.*~
+*.hi
+*.o
